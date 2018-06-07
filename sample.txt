@@ -14,4 +14,11 @@
 \f0 \'b0\'f8\'ba\'ce\'c7\'cf\'b4\'c2
 \f1  
 \f0 \'c1\'df\'c0\'d4\'b4\'cf\'b4\'d9
-\f1 .  }
+\f1 .\
+Add 
+\f0 \'ba\'af\'b0\'e6\'bb\'e7\'c7\'d7\'c0\'bb
+\f1  
+\f0 \'c0\'ce\'b5\'a6\'bd\'ba\'bf\'a1
+\f1  
+\f0 \'b5\'ee\'b7\'cf\'c7\'cf\'b1\'e2
+\f1  }
